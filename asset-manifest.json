@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.54d6ccf4.chunk.css",
-    "main.js": "/react_phone-catalog/static/js/main.4c4c30cf.chunk.js",
-    "main.js.map": "/react_phone-catalog/static/js/main.4c4c30cf.chunk.js.map",
+    "main.css": "/react_phone-catalog/static/css/main.91acc3bf.chunk.css",
+    "main.js": "/react_phone-catalog/static/js/main.5e32795a.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.5e32795a.chunk.js.map",
     "runtime~main.js": "/react_phone-catalog/static/js/runtime~main.25bc40f7.js",
     "runtime~main.js.map": "/react_phone-catalog/static/js/runtime~main.25bc40f7.js.map",
-    "static/js/2.f0e9d056.chunk.js": "/react_phone-catalog/static/js/2.f0e9d056.chunk.js",
-    "static/js/2.f0e9d056.chunk.js.map": "/react_phone-catalog/static/js/2.f0e9d056.chunk.js.map",
+    "static/js/2.20704a3a.chunk.js": "/react_phone-catalog/static/js/2.20704a3a.chunk.js",
+    "static/js/2.20704a3a.chunk.js.map": "/react_phone-catalog/static/js/2.20704a3a.chunk.js.map",
     "index.html": "/react_phone-catalog/index.html",
-    "precache-manifest.d871c6ed3ef150906689e22dd655673e.js": "/react_phone-catalog/precache-manifest.d871c6ed3ef150906689e22dd655673e.js",
+    "precache-manifest.6ceea739c7a9a47659d8c1db95d4b13e.js": "/react_phone-catalog/precache-manifest.6ceea739c7a9a47659d8c1db95d4b13e.js",
     "service-worker.js": "/react_phone-catalog/service-worker.js",
-    "static/css/main.54d6ccf4.chunk.css.map": "/react_phone-catalog/static/css/main.54d6ccf4.chunk.css.map"
+    "static/css/main.91acc3bf.chunk.css.map": "/react_phone-catalog/static/css/main.91acc3bf.chunk.css.map"
   }
 }
